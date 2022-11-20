@@ -1,0 +1,41 @@
+.Content{
+    padding-left: 130px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.PlaceCard{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    align-items:center;
+    margin-bottom: 36px;
+}
+
+.footer p{
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: #134B8A;
+    border-radius: 50px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin-left: 36px;
+    margin-right: 36px;
+}
+
+.Navigate{
+    width: 40px;
+    height: 40px;
+    color: #9E9E9E;
+    border: 1.5px solid #9E9E9E;
+    border-radius: 50px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}

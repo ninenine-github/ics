@@ -1,3 +1,9 @@
+# Installation
+1. Fork this repository
+2. Clone to your PC/Notebook
+3. type npm start/yarn start in command prompt
+4. enjoy :D
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
